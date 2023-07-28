@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -52,6 +51,7 @@
         <!-- Navbar ends -->
 
         <!-- Sidebar starts -->
+        
         <div id="sidebar" onclick="toggleMenu()">
             <div class="toggle-btn">
                 <span></span>
